@@ -1,6 +1,7 @@
 opam-version: "2.0"
 
 depends: [
+  "dune" {="2.8.2"}
   "mirage-crypto"
   "ocaml" {="4.11.2"}
   "bigstringaf"
